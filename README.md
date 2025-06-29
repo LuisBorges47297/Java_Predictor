@@ -10,14 +10,14 @@ Este projeto combina Flask (Python) e React para prever exceções comuns em có
 
 ### Backend:
 ```bash
-cd backend
+cd flask-backend
 pip install -r requirements.txt
 python app.py
 ```
 
 ### Frontend:
 ```bash
-cd frontend
+cd react-frontend
 npm install
 npm start
 ```
