@@ -1,0 +1,15 @@
+# Ambiente virtual Python
+luis/
+
+# Bytecode e cache do Python
+__pycache__/
+*.pyc
+
+# Node.js / React
+node_modules/
+build/
+dist/
+
+# Ficheiros de sistema e config
+.DS_Store
+.env
